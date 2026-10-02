@@ -33,5 +33,5 @@ khi host (ví dụ qua FlyEnv, root trỏ về thư mục này) để save khôn
 
 ## Host qua FlyEnv
 
-Tạo site mới (ví dụ `9t.test`) với root `P:\9T`, bật thêm header COOP/COEP ở cấu hình
+Tạo site mới (ví dụ `cuuthien.test`) với root `P:\CuuThienHuyenGioi`, bật thêm header COOP/COEP ở cấu hình
 web server nếu engine báo thiếu SharedArrayBuffer.
